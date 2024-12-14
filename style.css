@@ -10,10 +10,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #000000;
 }
 .gallery{
-    color: rgb(4, 0, 255);
+    color: rgb(255, 255, 255);
     padding-top: 40px;
     cursor: pointer;
     
